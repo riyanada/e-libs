@@ -102,7 +102,7 @@
         ***********************************-->
         <div class="footer">
             <div class="copyright">
-                <p style="margin: 0em;">&copy; 2022. Made with <span style="color:#e25555">❤</span> in Jabar</p>
+                <p style="margin: 0em;">&copy; 2023. Hand-crafted & Made with <span style="color:#e25555">❤</span></p>
             </div>
         </div>
         <!--**********************************
